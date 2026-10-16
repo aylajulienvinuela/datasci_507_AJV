@@ -1,0 +1,12 @@
+"PATIENT_ID","FIRST_NAME","LAST_NAME","ADMISSION_DEPARTMENT","DEPARTMENT_NAME","HEAD_DOCTOR","BUILDING_NUMBER"
+10035,"Becca","Martinez","Elective","Elective","Dr. Adams","B-102"
+10036,"Cristal","Nunez","General","General","Dr. Baker","B-103"
+10037,"Diana","Ortiz","Emergency","Emergency","Dr. Smith","B-101"
+10038,"Evan","Perez","Elective","Elective","Dr. Adams","B-102"
+10039,"Fred","Quero","General","General","Dr. Baker","B-103"
+10040,"George","Rodriguez","Emergency","Emergency","Dr. Smith","B-101"
+10041,"Helena","Santiago","Elective","Elective","Dr. Adams","B-102"
+10042,"Isabella","Torres","General","General","Dr. Baker","B-103"
+10043,"Jack","Uribe","ICU","ICU","Dr. Evans","B-106"
+10044,"Kaitlyn","Vinuela","Inpatient",,,
+,,,,"Outpatient","Dr. Foster","B-107"
