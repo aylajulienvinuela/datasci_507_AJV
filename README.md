@@ -1,1 +1,1 @@
-assignments for datascience course
+Assignments for Data Science Course
